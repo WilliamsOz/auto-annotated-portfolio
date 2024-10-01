@@ -47,8 +47,8 @@ sections:
         padding:
           - pt-3
           - pb-3
-          - pl-4
-          - pr-4
+          - pl-3
+          - pr-3
         justifyContent: center
         borderWidth: 4
         borderStyle: solid
