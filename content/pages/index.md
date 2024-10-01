@@ -47,7 +47,7 @@ sections:
       - type: Button
         label: View Resume
         altText: /
-        url: /
+        url: /Users/willyiony/Documents/CV/CV Ozserttas Williams.pdf
         showIcon: false
         icon: arrowRight
         iconPosition: right
