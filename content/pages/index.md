@@ -12,9 +12,9 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: 'Hello, my name is Williams Ozserttas a 42 Student.'
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+
+
     actions:
       - type: Button
         label: Try it now
