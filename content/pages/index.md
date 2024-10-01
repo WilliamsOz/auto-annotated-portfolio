@@ -146,6 +146,9 @@ sections:
       - type: Label
         label: Notion
         url: ''
+      - type: Label
+        label: Trello
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
