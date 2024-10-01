@@ -125,6 +125,9 @@ sections:
       - type: Label
         label: Docker
         url: ''
+      - type: Label
+        label: Docker-compose
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
