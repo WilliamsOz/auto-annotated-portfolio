@@ -40,7 +40,7 @@ sections:
       - type: Button
         label: View Resume
         altText: /
-        url: /
+        url: /src/assets/CV.pdf
         showIcon: false
         icon: arrowRight
         iconPosition: right
