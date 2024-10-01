@@ -140,6 +140,9 @@ sections:
       - type: Label
         label: Adobe Illustrator
         url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
