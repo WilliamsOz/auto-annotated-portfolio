@@ -87,7 +87,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: C
+        label: Linux
         url: /
       - type: Label
         label: React
