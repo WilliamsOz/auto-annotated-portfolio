@@ -88,8 +88,7 @@ sections:
     items:
       - type: Label
         label: C
-        url: >-
-          /https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png
+        url: /
       - type: Label
         label: React
         url: ''
