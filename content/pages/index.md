@@ -99,6 +99,9 @@ sections:
         label: Bash/Shell
         url: ''
       - type: Label
+        label: C/C++
+        url: ''
+      - type: Label
         label: HTML/CSS
         url: ''
       - type: Label
