@@ -114,7 +114,7 @@ sections:
         label: Arduino
         url: ''
       - type: Label
-        label: Bash/Shell
+        label: Django
         url: ''
     colors: colors-c
     elementId: ''
