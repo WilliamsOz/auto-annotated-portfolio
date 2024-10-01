@@ -96,7 +96,7 @@ sections:
         label: Windows
         url: ''
       - type: Label
-        label: Next.js
+        label: C/C++
         url: ''
       - type: Label
         label: Netlify
