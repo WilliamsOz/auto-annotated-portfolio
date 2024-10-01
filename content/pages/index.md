@@ -116,6 +116,9 @@ sections:
       - type: Label
         label: Django
         url: ''
+      - type: Label
+        label: Next.js
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
