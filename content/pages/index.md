@@ -39,9 +39,7 @@ sections:
       actions:
         justifyContent: center
   - type: HeroSection
-    title: >-
-      I am a 28 years old currently preparing for a Digital Architect title at
-      42 School.
+    title: About me
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
