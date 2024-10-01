@@ -87,7 +87,7 @@ sections:
       I have been passionate about computers and technology since I was young, I
       like to learn new things and also to pass them on.
 
-      I am looking for a 6-month internship in Paris.
+      I am looking for a 6-month internship in Paris as a developer.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
