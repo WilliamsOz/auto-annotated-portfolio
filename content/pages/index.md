@@ -87,7 +87,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: ''
+        label: C
         url: >-
           https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png
       - type: Label
