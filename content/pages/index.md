@@ -93,7 +93,7 @@ sections:
         label: MacOS
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Windows
         url: ''
       - type: Label
         label: Next.js
