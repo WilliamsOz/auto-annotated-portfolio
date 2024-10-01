@@ -37,14 +37,6 @@ sections:
       I am 28 years old currently preparing for a Digital Architect title at 42
       School.
     actions:
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: View Resume
         altText: /
