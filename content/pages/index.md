@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: Let's do this
+    title: 'Hello, my name is Williams Ozserttas'
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
