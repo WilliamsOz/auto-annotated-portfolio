@@ -87,9 +87,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Label title
-        url: ''
-      - type: Label
         label: C
         url: /
       - type: Label
