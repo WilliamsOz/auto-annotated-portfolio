@@ -40,7 +40,7 @@ sections:
       - type: Button
         label: View Resume
         altText: /
-        url: /images/CV.pdf
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -87,29 +87,67 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: C
-        url: ''
-        src: /images/c_icon.png
+        label: Linux
+        url: /
       - type: Label
-        label: React
+        label: MacOS
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Windows
+        url: ''
+      - type: Label
+        label: Bash/Shell
+        url: ''
+      - type: Label
+        label: C/C++
+        url: ''
+      - type: Label
+        label: HTML/CSS
+        url: ''
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: JavaScript
+        url: ''
+      - type: Label
+        label: Arduino
+        url: ''
+      - type: Label
+        label: Django
         url: ''
       - type: Label
         label: Next.js
         url: ''
       - type: Label
-        label: Netlify
+        label: PostgreSQL
         url: ''
       - type: Label
-        label: Pancakes
+        label: Docker
         url: ''
       - type: Label
-        label: C++
+        label: Docker-compose
         url: ''
       - type: Label
-        label: Swift
+        label: GitHub
+        url: ''
+      - type: Label
+        label: Visual Studio Code
+        url: ''
+      - type: Label
+        label: Vim
+        url: ''
+      - type: Label
+        label: Adobe Illustrator
+        url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
+      - type: Label
+        label: Notion
+        url: ''
+      - type: Label
+        label: Trello
         url: ''
     colors: colors-c
     elementId: ''
@@ -127,42 +165,4 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
 ---
