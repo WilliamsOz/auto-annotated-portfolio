@@ -137,6 +137,9 @@ sections:
       - type: Label
         label: Vim
         url: ''
+      - type: Label
+        label: Adobe Illustrator
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
