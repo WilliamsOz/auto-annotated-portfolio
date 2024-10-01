@@ -119,6 +119,9 @@ sections:
       - type: Label
         label: Next.js
         url: ''
+      - type: Label
+        label: PostgreSQL
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
