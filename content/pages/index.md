@@ -43,7 +43,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-3
           - pb-3
