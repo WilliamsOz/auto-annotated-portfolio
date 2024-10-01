@@ -108,7 +108,7 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
-        label: Swift
+        label: Bash/Shell
         url: ''
     colors: colors-c
     elementId: ''
