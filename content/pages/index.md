@@ -88,7 +88,8 @@ sections:
     items:
       - type: Label
         label: C
-        url: /images/c_icon.png
+        url: ''
+        src: /images/c_icon.png
       - type: Label
         label: React
         url: ''
