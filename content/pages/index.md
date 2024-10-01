@@ -122,6 +122,9 @@ sections:
       - type: Label
         label: PostgreSQL
         url: ''
+      - type: Label
+        label: Docker
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
