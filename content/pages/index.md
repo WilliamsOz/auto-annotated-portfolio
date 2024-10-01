@@ -31,6 +31,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        borderStyle: dashed
       title:
         textAlign: center
       text:
