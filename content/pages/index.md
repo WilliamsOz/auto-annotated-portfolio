@@ -74,6 +74,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: >
+      I have been passionate about computers and technology since I was young, I
+      like to learn new things and also to pass them on.
+
+      I am looking for a 6-month internship in Paris.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
