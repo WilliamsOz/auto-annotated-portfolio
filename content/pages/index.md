@@ -143,6 +143,9 @@ sections:
       - type: Label
         label: Microsoft Office
         url: ''
+      - type: Label
+        label: Notion
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
