@@ -47,8 +47,7 @@ sections:
       - type: Button
         label: View Resume
         altText: /
-        url: >-
-          /https://media.licdn.com/dms/document/media/D4E1FAQFItFs4_-J1oQ/feedshare-document-pdf-analyzed/0/1719915715921?e=1728518400&v=beta&t=E5SiugJlHfpNjg3ERv5tZ4Rd4jHrvZIlD2L_c-RFqE8
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
