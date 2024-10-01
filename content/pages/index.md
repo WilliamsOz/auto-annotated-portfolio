@@ -134,6 +134,9 @@ sections:
       - type: Label
         label: Visual Studio Code
         url: ''
+      - type: Label
+        label: Vim
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
