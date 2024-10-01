@@ -128,6 +128,9 @@ sections:
       - type: Label
         label: Docker-compose
         url: ''
+      - type: Label
+        label: GitHub
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
