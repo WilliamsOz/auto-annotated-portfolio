@@ -45,13 +45,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: >-
-          <span class="d-flex mt-3">                <a                 
-          rel="noreferrer"                  target="_blank"                 
-          class="cta-btn cta-btn--resume"                 
-          href="assets/CV_Mohammed_Hajji_baba_42.pdf"               
-          >                  View Resume                </a>             
-          </span>
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/me.jpg
