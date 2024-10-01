@@ -51,7 +51,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 4
-        borderStyle: double
+        borderStyle: solid
   - type: HeroSection
     title: About me
     subtitle: >-
