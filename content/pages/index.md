@@ -131,6 +131,9 @@ sections:
       - type: Label
         label: GitHub
         url: ''
+      - type: Label
+        label: Visual Studio Code
+        url: ''
     colors: colors-c
     elementId: ''
     styles:
