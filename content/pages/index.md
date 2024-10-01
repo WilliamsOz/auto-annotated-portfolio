@@ -90,7 +90,7 @@ sections:
         label: Linux
         url: /
       - type: Label
-        label: React
+        label: MacOS
         url: ''
       - type: Label
         label: Microsoft Office
