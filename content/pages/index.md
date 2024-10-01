@@ -45,7 +45,7 @@ sections:
       School.
     actions:
       - type: Button
-        label: Learn more
+        label: View Resume
         altText: ''
         url: /
         showIcon: false
