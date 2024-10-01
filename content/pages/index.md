@@ -96,7 +96,7 @@ sections:
         label: Windows
         url: ''
       - type: Label
-        label: C/C++
+        label: Bash/Shell
         url: ''
       - type: Label
         label: HTML/CSS
