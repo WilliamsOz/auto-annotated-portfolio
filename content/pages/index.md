@@ -40,8 +40,7 @@ sections:
       - type: Button
         label: View Resume
         altText: /
-        url: >-
-          /https://hajjibabamohammed.netlify.app/assets/CV_Mohammed_Hajji_baba_42.pdf
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
