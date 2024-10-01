@@ -46,7 +46,7 @@ sections:
     actions:
       - type: Button
         label: View Resume
-        altText: ''
+        altText: /
         url: /
         showIcon: false
         icon: arrowRight
