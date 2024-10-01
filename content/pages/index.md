@@ -84,7 +84,7 @@ sections:
       I am looking for a 6-month internship in Paris as a developer.
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
