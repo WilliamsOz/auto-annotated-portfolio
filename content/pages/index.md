@@ -88,6 +88,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderColor: border-secondary
       title:
         textAlign: left
         fontWeight: 400
