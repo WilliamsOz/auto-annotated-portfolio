@@ -2,13 +2,6 @@
 type: PageLayout
 title: Home
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - type: CtaSection
     title: 'Hello, my name is Williams Ozserttas a 42 Student.'
@@ -51,7 +44,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     media:
       type: ImageBlock
@@ -74,6 +67,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderColor: border-secondary
       title:
         textAlign: left
         fontWeight: 400
@@ -88,6 +82,51 @@ sections:
       like to learn new things and also to pass them on.
 
       I am looking for a 6-month internship in Paris as a developer.
+  - type: LabelsSection
+    title: Skills
+    subtitle: ''
+    items:
+      - type: Label
+        label: C
+        url: >-
+          /https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png
+      - type: Label
+        label: React
+        url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
+      - type: Label
+        label: Next.js
+        url: ''
+      - type: Label
+        label: Netlify
+        url: ''
+      - type: Label
+        label: Pancakes
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: Swift
+        url: ''
+    colors: colors-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
