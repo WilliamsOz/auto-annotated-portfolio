@@ -108,6 +108,9 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
+        label: Arduino
+        url: ''
+      - type: Label
         label: Bash/Shell
         url: ''
     colors: colors-c
