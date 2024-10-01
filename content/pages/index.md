@@ -38,19 +38,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: HeroSection
     title: About me
     subtitle: >-
