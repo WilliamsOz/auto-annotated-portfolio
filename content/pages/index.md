@@ -102,7 +102,7 @@ sections:
         label: HTML/CSS
         url: ''
       - type: Label
-        label: Pancakes
+        label: Python
         url: ''
       - type: Label
         label: C++
