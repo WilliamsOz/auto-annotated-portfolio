@@ -110,7 +110,7 @@ sections:
       - type: Label
         label: Swift
         url: ''
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     styles:
       self:
