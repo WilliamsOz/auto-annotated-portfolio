@@ -105,7 +105,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: C++
+        label: JavaScript
         url: ''
       - type: Label
         label: Swift
