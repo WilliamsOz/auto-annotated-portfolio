@@ -166,7 +166,7 @@ sections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: Contact
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
