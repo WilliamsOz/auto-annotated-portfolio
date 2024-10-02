@@ -170,8 +170,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/logo1.svg
         altText: ''
         caption: ''
         elementId: ''
