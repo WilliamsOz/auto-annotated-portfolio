@@ -167,7 +167,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: Contact
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/logo1.svg
