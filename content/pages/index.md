@@ -153,8 +153,8 @@ sections:
     elementId: ''
     styles:
       self:
-        height: auto
-        width: wide
+        height: screen
+        width: narrow
         padding:
           - pt-28
           - pb-28
