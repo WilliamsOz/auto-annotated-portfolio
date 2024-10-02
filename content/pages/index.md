@@ -40,7 +40,7 @@ sections:
       - type: Button
         label: View Resume
         altText: /
-        url: /images/cv.pdf
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -61,7 +61,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-48
+          - pb-40
           - pl-4
           - pr-4
         alignItems: center
@@ -156,8 +156,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-36
-          - pb-36
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
