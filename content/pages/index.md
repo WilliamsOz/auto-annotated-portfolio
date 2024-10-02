@@ -182,7 +182,7 @@ sections:
       - type: ImageBlock
         url: /images/logo3.svg
         altText: logo three
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/logo4.svg
