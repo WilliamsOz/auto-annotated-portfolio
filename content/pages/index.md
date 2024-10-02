@@ -203,7 +203,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
     elementId: ''
     styles:
