@@ -180,9 +180,9 @@ sections:
         caption: ''
         elementId: ''
         html: |
-        <a href="https://www.linkedin.com/in/williams-ozserttas-123259167/" target="_blank">
-          <img src="/images/linkedin-logo-noir.webp" alt="LinkedIn logo" />
-        </a>
+          <a href="https://www.linkedin.com/in/williams-ozserttas-123259167/" target="_blank">
+            <img src="/images/linkedin-logo-noir.webp" alt="LinkedIn logo" />
+          </a>
       - type: ImageBlock
         url: /images/logo3.svg
         altText: logo three
