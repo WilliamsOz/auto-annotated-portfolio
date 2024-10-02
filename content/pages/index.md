@@ -9,7 +9,7 @@ sections:
 
 
     actions: []
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
     elementId: ''
     styles:
