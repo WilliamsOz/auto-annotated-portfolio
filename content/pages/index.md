@@ -172,7 +172,7 @@ sections:
       - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
+        altText: ''
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
