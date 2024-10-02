@@ -171,11 +171,6 @@ sections:
     images:
       - type: ImageBlock
         url: /images/linkedin-logo-noir.webp
-        altText: LinkedIn logo
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/linkedin-logo-noir.webp
         altText: logo two
         caption: Caption of the image
         elementId: ''
