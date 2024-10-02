@@ -174,6 +174,8 @@ sections:
         altText: ''
         caption: ''
         elementId: ''
+        actions:
+        -url: /https://www.linkedin.com/in/williams-ozserttas-123259167/
       - type: ImageBlock
         url: /images/linkedin-logo-noir.webp
         altText: logo two
