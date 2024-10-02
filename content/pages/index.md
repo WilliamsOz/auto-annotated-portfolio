@@ -172,7 +172,7 @@ sections:
       - type: ImageBlock
         url: >-
           /images/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png
-        altText: logo one
+        altText: LinkedIn logo
         caption: ''
         elementId: ''
       - type: ImageBlock
