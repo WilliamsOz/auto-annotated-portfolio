@@ -179,8 +179,7 @@ sections:
         altText: logo two
         caption: ''
         elementId: ''
-        actions:
-        - url: /https://www.linkedin.com/in/williams-ozserttas-123259167/
+        linkUrl: 'https://www.linkedin.com/in/williams-ozserttas-123259167/'
       - type: ImageBlock
         url: /images/logo3.svg
         altText: logo three
