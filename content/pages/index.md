@@ -170,8 +170,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: >-
-          /images/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png
+        url: /images/Capture-decran-2023-06-21-a-18.42.07.webp
         altText: LinkedIn logo
         caption: ''
         elementId: ''
