@@ -185,7 +185,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/GitHub.jpg
         altText: logo four
         caption: Caption of the image
         elementId: ''
