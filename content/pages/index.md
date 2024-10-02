@@ -175,7 +175,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/linkedin-logo-noir.webp
         altText: logo two
         caption: Caption of the image
         elementId: ''
