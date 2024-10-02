@@ -170,7 +170,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Capture-decran-2023-06-21-a-18.42.07.webp
+        url: /images/linkedin-logo-noir.webp
         altText: LinkedIn logo
         caption: ''
         elementId: ''
