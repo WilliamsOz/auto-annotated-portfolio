@@ -170,7 +170,8 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: >-
+          /images/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png
         altText: logo one
         caption: Caption of the image
         elementId: ''
