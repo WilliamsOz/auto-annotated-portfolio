@@ -149,7 +149,7 @@ sections:
       - type: Label
         label: Trello
         url: ''
-    colors: colors-c
+    colors: colors-d
     elementId: ''
     styles:
       self:
