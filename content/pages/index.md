@@ -177,7 +177,7 @@ sections:
       - type: ImageBlock
         url: /images/linkedin-logo-noir.webp
         altText: logo two
-        caption: ''
+        caption: '/https://www.linkedin.com/in/williams-ozserttas-123259167/'
         elementId: ''
       - type: ImageBlock
         url: /images/logo3.svg
